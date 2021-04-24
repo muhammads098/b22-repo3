@@ -12,3 +12,8 @@ Now our work will continue locally
 2. commited the changes to local repo.
 3.we want this change to reflected in remote repository so we pushed local commits to remote repository using push origin button.
 4. observe it has been added in your repoository under github.com
+
+How to save after adding some text in sublime
+On mac Coomand+S
+
+We do not have to push one commit at a time. You can push multiople commits in one shot there is no limit.
