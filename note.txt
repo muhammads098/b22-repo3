@@ -3,4 +3,12 @@ We just published our local git repo to remote GitHub reposotory
 Few things happend :
 1. it automatically created new remote repo under your github.com account.
 2.Made the connection with your local git repo.
-3.Added all the commits to your remote repo
+3.Added all the commits to your remote repo.
+
+
+Now our work will continue locally
+
+1. add a new file called note.txt
+2. commited the changes to local repo.
+3.we want this change to reflected in remote repository so we pushed local commits to remote repository using push origin button.
+4. observe it has been added in your repoository under github.com
